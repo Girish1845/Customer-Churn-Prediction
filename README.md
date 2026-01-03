@@ -15,9 +15,11 @@
 - Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 - Step 2: Run the Streamlit Application
 ```bash
 streamlit run app.py
+```
 
 ### 4. Model Used
 
