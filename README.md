@@ -12,8 +12,12 @@
 
 ### 3. Steps to run the project
 
-- Step 1: Install Dependencies pip install -r requirements.txt
-- Step 2: Run the Streamlit Application streamlit run app.py
+- Step 1: Install Dependencies
+```bash
+pip install -r requirements.txt
+- Step 2: Run the Streamlit Application
+```bash
+streamlit run app.py
 
 ### 4. Model Used
 
@@ -25,7 +29,7 @@
 - The trained Decision Tree model can predict customer churn effectively.
 
 - Output interpretation:
-0 → Customer will NOT churn
+0 → Customer will NOT churn,
 1 → Customer WILL churn
 - Model Evaluation : Accuracy - 0.725
 
