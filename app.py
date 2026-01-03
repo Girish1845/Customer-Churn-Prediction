@@ -5,7 +5,7 @@ import numpy as np
 # Load trained model
 model = joblib.load("model/customer_churn_decision_tree.pkl")
 
-st.title("📊 Customer Churn Prediction")
+st.title("Customer Churn Prediction")
 st.write("Decision Tree Model")
 
 st.markdown("### Enter Customer Details")
